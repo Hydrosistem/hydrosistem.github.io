@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.hydrosistem.twa",
+        "sha256_cert_fingerprints": ["87:01:04:E4:4C:C6:7F:9B:22:24:8A:82:89:6E:BB:F7:FB:02:71:78:EB:7A:06:25:FC:99:3B:CB:88:58:D0:85"]
+      }
+    }]
